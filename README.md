@@ -13,10 +13,6 @@ tools, tutorials, articles and more. PRs are welcome!
 <br/>
 <br/>
 
-<img
-src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
-alt="Build Status" />
-
 # Buzzing
 
 Have something that belongs under "Buzzing"? drop me a line:
