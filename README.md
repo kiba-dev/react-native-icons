@@ -13,56 +13,14 @@ tools, tutorials, articles and more. PRs are welcome!
 <br/>
 <br/>
 
-<p align="center">
-<a href="https://bit.ly/arn-wkly">Don't miss out! Subscribe to our weekly newsletter</a>
-</p>
-<br/>
-<br/>
-
 <img
 src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
 alt="Build Status" />
 
 # Buzzing
 
-<div style="text-align: center"><table><tr>
-    <td style="text-align: center">
-        <a href="https://medium.com/react-native-training/react-native-authentication-in-depth-8d8c2e4ad81b">
-        <img src="https://cdn-images-1.medium.com/max/2000/1*WpOK6v_X2lr8CsmAdJR4og.jpeg" width="120" />
-        <br />
-        React Native Authentication in Depth
-        </a>
-    </td>
-    <td style="text-align: center">
-        <a href="https://www.youtube.com/watch?v=9baaVjGdBqs">
-        <img src="https://img.youtube.com/vi/9baaVjGdBqs/0.jpg" width="120" />
-        <br />
-        Create React Native App
-        </a>
-    </td>
-    <td style="text-align: center">
-        <a href="https://facebook.github.io/react-native/blog/2017/03/13/better-list-views.html">
-        <img src="icon.png" width="120" height="90" style="
-            background: #d0d0d0;
-            padding: 10px;
-        " />
-        <br />
-            Better List Views
-        </a>
-    </td>
-</tr></table></div>
-
 Have something that belongs under "Buzzing"? drop me a line:
 dotan-at-paracode.com.
-
-
-## Instabug
-
-### _Understand How Your React-Native App is Doing with Real-Time Contextual Insights From Your Users_
-
-[![instabug-gif](https://user-images.githubusercontent.com/10850625/82208425-c6f73080-990b-11ea-9e6c-462c15f6bab5.gif)](https://try.instabug.com/awesome-react-native?utm_source=awesomereact&utm_medium=repos&utm_campaign=awesomereact-repo-q220&utm_content=gif)
-
->Catch bugs as soon as they happen and know exactly why a crash occurred. Instabug's SDK gives development and product teams all the logs they need to fix bugs, crashes, and other issues in minutes instead of days. Instabug automatically attaches screenshots, device details, network logs, repro steps, and tons of other critical insights needed to resolve issues and prioritize product backlogs. It only takes a line of code to integrate and accelerate your workflows by seamlessly integrating with third-party tools like Github, Jira, Slack, Zendesk, and much more. Instabug is offering awesome-reactnative community a 3 months free trial. [Get Started Now!](https://try.instabug.com/awesome-react-native?utm_source=awesomereact&utm_medium=repos&utm_campaign=awesomereact-repo-q220&utm_content=get-started)
 
 # Categories
 
@@ -129,85 +87,6 @@ dotan-at-paracode.com.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Many thanks to everyone on the [contributor
-list](https://github.com/jondot/awesome-react-native/graphs/contributors)\\:)
-
-## Conferences
-
-Conferences dedicated to React Native specifically. A listing of React
-general conferences can be found on the [ReactJS
-site](https://facebook.github.io/react/docs/conferences.html).
-
-### Chain React - Portland, OR USA
-
-<http://chainreactconf.com>
-
-Workshops - July 11th, 2018\\
-Conference - July 12-13th, 2018
-
-### React Native EU - Wroclaw, Poland
-
-<http://react-native.eu/>
-
-Workshops - September 3-4th, 2018\\
-Conference - September 5-6th, 2018
-
-### React Alicante - Alicante, Spain
-
-<http://reactalicante.es/>
-
-Workshops - September 13th, 2018\\
-Conference - September 14-15th, 2018
-
-### ReactNext - Tel Aviv, Israel
-
-<https://react-next.com/>
-
-Conference - November 4th, 2018
-
-### App.js Conf - Krakow, Poland
-
-<https://appjs.co/>
-
-Conference - April 4th, 2019
-Workshops - April 5th, 2019
-
-### Chain React - Portland, OR USA
-
-<https://infinite.red/ChainReactConf>
-
-Workshops - July 10th, 2019
-Conference - July 11th-12th, 2019
-
-### React Native EU - Wroclaw, Poland
-
-<https://react-native.eu/>
-
-Workshops - September 4th, 2019
-Conference - September 5th-6th, 2019
-
-### React Berlin - Berlin, Germany
-
-<https://reactday.berlin/>
-
-Workshops - December 4th-5th, 2019
-Conference - December 6th, 2019
-
-### ReactEurope - Paris, France
-
-<https://www.react-europe.org/>
-
-Conference - May 14th-15, 2020
-Workshops - May 12th-13th, 2020
-
-
-## Articles
-
-Content published on the Web.
-
-### Reference
-
-* [React Native Styling Cheatsheet ★2679](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 
 ### Howtos
 
